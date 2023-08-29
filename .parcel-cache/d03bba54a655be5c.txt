@@ -1,4 +1,4 @@
-16793
+16797
 162C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\rxjs\dist\types\internal\operators\publishReplay.d.ts133377596941964769 0
 173C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\rxjs\dist\cjs\internal\scheduler\performanceTimestampProvider.js133377596873036720 0
 153C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\rxjs\dist\cjs\internal\operators\find.js.map133377596901447756 0
@@ -16,7 +16,7 @@
 158C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133377596844983091 0
 139C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\type-fest\source\simplify.d.ts133377596808558414 0
 171C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\abortcontroller-polyfill\dist\abortcontroller-polyfill-only.js133377596757246991 0
-100C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\dist133377621533074036 1
+100C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\dist133377622435193650 1
 126C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\@msgpackr-extract133377608908823130 1
 114C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\src\css\estilo.css133377621524691475 0
 141C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\jest-snapshot\node_modules\chalk133377596775847199 1
@@ -3777,6 +3777,7 @@
 126C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\js-yaml\README.md133377596813131139 0
 133C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\svgo\lib\svgo\plugins.js133377596809376208 0
 141C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\jest-config\build\ValidConfig.js133377596799265692 0
+122C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\dist\index.f39a0262.js.map133377622435147081 0
 123C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\lodash\noop.js133377596880644484 0
 134C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\import-local\package.json133377596760672359 0
 172C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg133377596832269496 1
@@ -6311,6 +6312,7 @@
 137C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\rxjs\dist\cjs\fetch\index.js133377596861670759 0
 146C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\rxjs\dist\esm\internal\Subject.js.map133377596920057726 0
 149C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\rxjs\dist\esm\internal\Subscriber.js.map133377596920278442 0
+123C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\dist\index.721a0d97.css.map133377622435157042 0
 131C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\normalize-path\LICENSE133377596751737837 0
 139C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\rxjs\dist\esm\internal\testing133377596923696407 1
 171C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\regenerate-unicode-properties\Script_Extensions\Warang_Citi.js133377596867339934 0
@@ -16784,9 +16786,11 @@
 124C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\.bin\terser.ps1133377596949324857 0
 118C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\.bin\uuid133377596949324857 0
 122C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\node_modules\.bin\uuid.cmd133377596949324857 0
+119C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\dist\index.721a0d97.css133377622434970517 0
 118C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\dist\index.87ae31f1.js133377621531040745 0
 122C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\dist\index.87ae31f1.js.map133377621531271874 0
-111C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\dist\index.html133377621531668840 0
+118C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\dist\index.f39a0262.js133377622434985656 0
+111C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\dist\index.html133377622434985656 0
 107C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\cypress\e2e133377596201602255 1
 111C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\cypress\support133377596203276601 1
 123C:\Users\SUSAN CESPEDES\Desktop\INGENIERIA DE SOFTWARE\MisTareas\Tarea8-Implementar-Totalizador\cypress\support\commands.js133377596203236478 0
